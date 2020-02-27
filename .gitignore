@@ -1,3 +1,3 @@
 *.conf 
 !example.log
-!api.log
+!api2.log
